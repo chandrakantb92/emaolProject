@@ -1,2 +1,2 @@
-# emaolProject
+# emailProject
 testing git working
